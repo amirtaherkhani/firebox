@@ -1,27 +1,22 @@
-# loopback4-starter
+# firebox
+### Your Ultimate Digital Wallet for Social Media and Personal Valuables
 
-[![LoopBack](<https://github.com/strongloop/loopback-next/raw/master/docs/site/imgs/branding/Powered-by-LoopBack-Badge-(blue)-@2x.png>)](http://loopback.io/)
 
-[![Dependencies Status](https://img.shields.io/david/sourcefuse/loopback4-starter.svg?style=flat-square&label=Dependencies)](https://github.com/sourcefuse/loopback4-starter)
-[![Loopback Core Version](https://img.shields.io/github/package-json/dependency-version/sourcefuse/loopback4-starter/@loopback/core.svg?color=dark%20green&style=flat-square)](https://github.com/strongloop/loopback-next)
-[![Loopback Build Version](https://img.shields.io/github/package-json/dependency-version/sourcefuse/loopback4-starter/dev/@loopback/build.svg?color=dark%20green&style=flat-square)](https://github.com/strongloop/loopback-next/tree/master/packages/build)
-[![License](https://img.shields.io/github/license/sourcefuse/loopback4-starter.svg?color=blue&label=License&style=flat-square)](https://github.com/sourcefuse/loopback4-starter/blob/master/LICENSE)
+#### In the fast-paced digital age, managing your finances and personal valuables securely has never been more crucial. fire-box is a revolutionary application, leveraging the cutting-edge technology of Fireblocks to provide a seamless and secure digital wallet experience, specifically designed for social media and personal storage.
 
-This is a LoopBack 4 starter application to get you upto speed with initial setup of a very standard REST API application with LoopBack 4 as framework. It provides you with all the core requisite features for most of the applications over and above framework features, viz.,
+**Key Features:**
+- ***User Management***: Effortlessly create and manage user profiles, with robust role-based access control to ensure only authorized users can access sensitive features and data.
+- ***Social Media Integration***: Effortlessly manage transactions, tip influencers, and engage in social commerce directly through your favorite social media platforms.
 
-1. Users
-2. Authentication
-3. Authorization
-4. Environment configs
-5. Audit logs
-6. DB upgrade, migration and versioning
+- ***Personal Vault***: Store, manage, and access your digital assets, documents, and precious memories securely.
 
-In addition to that, it also provides you with some of the good to have items
+- ***State-of-the-Art Security***: Utilizing Fireblocks' advanced multi-layer security protocols, rest assured that your assets and personal information are protected against the latest threats.
 
-1. Multi-tenant architecture system
-2. Soft deletes
+- ***User-Friendly Interface***: Intuitive and easy-to-navigate design ensures a seamless user experience for both novices and tech-savvy individuals.
 
-**NOTE: For a non multi-tenant starter, please refer to the branch [single_tenant](https://github.com/sourcefuse/loopback4-starter/tree/single_tenant).**
+- ***Real-Time Notifications***: Stay informed with instant alerts on transactions, security updates, and more.
+
+- Unlock the future of digital finance and personal storage with firebox. Your digital assets and social media interactions are now safer and more accessible than ever before.
 
 ## Table of Contents
 
@@ -80,11 +75,7 @@ Say the application you are developing is named 'To Do List'. Change as below.
 - Update README.md with details of your application
 - Update CONTRIBUTING.md with details as per your application.
 
-#### Update git origin
 
-```sh
-git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
-```
 
 #### Setup database
 

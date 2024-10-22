@@ -1,4 +1,4 @@
-# firebox
+
 ### Your Ultimate Digital Wallet for Social Media and Personal Valuables
 
 
